@@ -1,1 +1,0 @@
-plugin = {"pretty", "json:target/cucumber-reports-json/Cucumber.json"} // Generate JSON report

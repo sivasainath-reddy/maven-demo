@@ -6,6 +6,6 @@ Feature: User Registration
     Given I navigate to "https://www.demoblaze.com/"
     When I enter registration details
       | Username   | Password   |
-      | Mattitast1 | Pass@12345 |
+      | Matvitast1 | Pass@12345 |
     And I click the signup button
     Then I should see the successful registration message "Sign up successful."
